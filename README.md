@@ -1,13 +1,13 @@
-<h1 align="center">Olá 👋, Ana Júlia aqui!</h1>
-<h3 align="justify">Bem-vindo(a) ao meu espaço no GitHub. 👾 Sou estudante de Engenharia da Computação e sou extremamente apaixonada por tecnologia, educação, programação, jogos e robótica, e estou atualmente buscando me desenvolver como programadora Back-end, especialmente no que tange resolução de problemas e impacto real. ⚙️ </h3>
+<h4 align="center">Olá 👋, Ana Júlia aqui!</h4>
+<h6 align="justify">Bem-vindo(a) ao meu espaço no GitHub. 👾 Sou estudante de Engenharia da Computação e sou extremamente apaixonada por tecnologia, educação, programação, jogos e robótica, e estou atualmente buscando me desenvolver como programadora Back-end, especialmente no que tange resolução de problemas e impacto real. ⚙️ </h6>
 
-- 💖 Estou atualmente me aperfeiçoando em **C++ (com foco em programação competitiva), C#.Net (para adquirir uma base robusta em Back-end e mergulhar mais profundamente na criação de jogos), e Java.**
+<h6 align="justify">- 💖 Estou atualmente me aperfeiçoando em **C++ (com foco em programação competitiva), C#.Net (para adquirir uma base robusta em Back-end e mergulhar mais profundamente na criação de jogos), e Java.** </h6>
 
-- 📌 Encontre mais sobre meus projetos em meu **[Linkedin](linkedin.com/in/anajuliasouzaeng).**
+<h6 align="justify">- 📌 Encontre mais sobre meus projetos em meu **[Linkedin](linkedin.com/in/anajuliasouzaeng).** </h6>
 
-- ⚡ Encontre jogos que fiz para game-jams e outros em meu **[Itch.io](https://njj21.itch.io/).**
+<h6 align="justify">- ⚡ Encontre jogos que fiz para game-jams e outros em meu **[Itch.io](https://njj21.itch.io/).** </h6>
 
-- 💬 Você pode entrar em contato comigo através do e-mail **anaju.ofc635@gmail.com.**
+<h6 align="justify">- 💬 Você pode entrar em contato comigo através do e-mail **anaju.ofc635@gmail.com.** </h6>
 
 <h3 align="left">Onde me encontrar:</h3>
 <p align="left">
