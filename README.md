@@ -18,10 +18,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nana072819" height="30" width="40" />
   </a>
   <a href="https://njj21.itch.io/" target="blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/itch-io-569560.png" alt="itchio" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Itch.io_logo.svg" alt="Ana Júlia no itch.io" height="30" width="40" />
   </a>
 </p>
-
 
 <h3 align="left">Principais Linguagens:</h3>
 <p align="left">
