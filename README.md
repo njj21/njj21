@@ -5,7 +5,7 @@
 
 <h5 align="justify">- 📌 Encontre mais sobre meus projetos em meu Linkedin (anajuliasouzaeng). </h5>
 
-<h5 align="justify">- ⚡ Encontre jogos que fiz para game-jams e outros em meu Itch.io (anajulia.itch.io). </h5>
+<h5 align="justify">- ⚡ Encontre jogos que fiz para game-jams e outros em meu Itch.io (njj21). </h5>
 
 <h5 align="justify">- 💬 Você pode entrar em contato comigo diretamente através do meu e-mail (anaju.ofc635@gmail.com) ou Discord (nana072819). </h5>
 
