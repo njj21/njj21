@@ -3,16 +3,11 @@
 
 <h5 align="justify">- 💖 Estou atualmente me aperfeiçoando em C++ (com foco em programação competitiva), C#.Net (para adquirir uma base robusta em Back-end e mergulhar mais profundamente na criação de jogos), e Java. </h5>
 
-<h5 align="justify">- 📌 Encontre mais sobre meus projetos em meu Linkedin. </h5>
+<h5 align="justify">- 📌 Encontre mais sobre meus projetos em meu Linkedin (anajuliasouzaeng). </h5>
 
-<h5 align="justify">- ⚡ Encontre jogos que fiz para game-jams e outros em meu Itch.io. </h5>
+<h5 align="justify">- ⚡ Encontre jogos que fiz para game-jams e outros em meu Itch.io (anajulia.itch.io). </h5>
 
-<h5 align="justify">- 💬 Você pode entrar em contato comigo diretamente através do meu e-mail. </h5>
-
-<h3 align="left">Onde me encontrar:</h3>
-<h5 algum=left>Discord: nana072819.
-LinkedIn: anajuliasouzaeng.
-Itch.io: anajulia.itch.io.</h5>
+<h5 align="justify">- 💬 Você pode entrar em contato comigo diretamente através do meu e-mail (anaju.ofc635@gmail.com) ou Discord (nana072819). </h5>
 
 <h3 align="left">Principais Linguagens:</h3>
 <p align="left">
