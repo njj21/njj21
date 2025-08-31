@@ -7,13 +7,21 @@
 
 <h5 align="justify">- ⚡ Encontre jogos que fiz para game-jams e outros em meu Itch.io. </h5>
 
-<h5 align="justify">- 💬 Você pode entrar em contato comigo através do meu e-mail. </h5>
+<h5 align="justify">- 💬 Você pode entrar em contato comigo diretamente através do meu e-mail. </h5>
 
 <h3 align="left">Onde me encontrar:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anajuliasouzaeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anajuliasouzaeng" height="30" width="40" /></a>
-<a href="https://discord.gg/nana072819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nana072819" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/anajuliasouzaeng" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anajuliasouzaeng" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/nana072819" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nana072819" height="30" width="40" />
+  </a>
+  <a href="https://njj21.itch.io/" target="blank">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/itch-io-569560.png" alt="itchio" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Principais Linguagens:</h3>
 <p align="left">
