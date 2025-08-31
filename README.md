@@ -10,24 +10,16 @@
 <h5 align="justify">- 💬 Você pode entrar em contato comigo diretamente através do meu e-mail. </h5>
 
 <h3 align="left">Onde me encontrar:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/anajuliasouzaeng" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anajuliasouzaeng" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/nana072819" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nana072819" height="30" width="40" />
-  </a>
-  <a href="https://njj21.itch.io/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Itch.io_logo.svg" alt="Ana Júlia no itch.io" height="30" width="40" />
-  </a>
-</p>
+<h5 algum=left>Discord: nana072819.
+LinkedIn: anajuliasouzaeng.
+Itch.io: anajulia.itch.io.</h5>
 
 <h3 align="left">Principais Linguagens:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+ https://linkedin.com/in/anajuliasouzaeng <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
