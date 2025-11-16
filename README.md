@@ -1,14 +1,24 @@
-<h4 align="center">◟♯ . hi / ! 👋🏻 </h4>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=◟♯+.+hi+/+!+👋🏻" alt="Typing SVG">
+</p>
+
+<br><br>
 
 <p align="center">
   <img src="2915771c6202130b98dadee9f4ed1e2d.jpg" width="250">
 </p>
 
+<br><br>
+
 <h5 align="justify">
 welcome to my github space. I'm a computer engineering student with a strong interest in programming, games, embedded technologies, and education. currently, I'm developing as a back-end programmer, focusing on problem-solving and the practical application of concepts learned throughout my studies. 🦾 
 </h5>
 
+<br>
+
 <h4>꒰ᐢ. .ᐢ꒱ . tools & technologies</h4>
+
+<br>
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank">
@@ -46,10 +56,13 @@ welcome to my github space. I'm a computer engineering student with a strong int
   </a>
 </p>
 
-<h4>✉️ contact</h4>
+<br>
+
+<h4>contactㅤ૮ ․ ․ ྀིა </h4>
+
+<br>
 
 <p align="left">
-
   <a href="mailto:anaju.ofc635@gmail.com">
     <img src="https://img.shields.io/badge/email-000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -60,3 +73,5 @@ welcome to my github space. I'm a computer engineering student with a strong int
     <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
   </a>
 </p>
+
+<br><br>
