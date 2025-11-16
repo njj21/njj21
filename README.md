@@ -5,12 +5,6 @@
 </p>
 <br>
 
-<p align="center">
-  <img src="2915771c6202130b98dadee9f4ed1e2d.jpg" width="250">
-</p>
-
-<br><br>
-
 <h5 align="justify">
 welcome to my github space. I'm a computer engineering student with a strong interest in programming, games, embedded technologies, and education. currently, I'm developing as a back-end programmer, focusing on problem-solving and the practical application of concepts learned throughout my studies. 🦾 
 </h5>
