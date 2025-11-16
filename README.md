@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=◟♯+.+hi+/+!+👋🏻" alt="Typing SVG">
-</p>
+<h4 align="center">◟♯ . hi / ! 👋🏻 </h4>
 
-<br><br>
+<p align="center">
+  <img src="2915771c6202130b98dadee9f4ed1e2d.jpg" width="250">
+</p>
+<br>
 
 <p align="center">
   <img src="2915771c6202130b98dadee9f4ed1e2d.jpg" width="250">
